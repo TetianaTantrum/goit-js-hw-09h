@@ -36,3 +36,5 @@ function onClickCreate(e) {
   }
 }
 createBtn.addEventListener('click', onClickCreate);
+
+console.log(delay);
